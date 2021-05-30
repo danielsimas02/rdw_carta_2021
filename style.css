@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0
+ 
+ }
+
+
+ div{
+     border: 8px solid;
+     text-align: center;
+     font-size: 60px;
+     margin-left: auto;
+     margin-right: auto;
+     border-style:ridge;
+     border-color:black;
+     border-radius: 10%;
+    
+  
+ }
+ h1{
+  font-size:48px;
+  color: red;
+  
+  margin-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+
+
+ p{
+     color: rgb(219, 26, 26);
+     margin-left: 0%;
+     margin-right: 30%;
+     margin-top: 50px;
+    
+     
+ }
+  
+ h3{
+     margin-top: 90px;
+     color: rgb(253, 0, 0);
+     margin-left: 0%;
+     margin-right: 55%;
+     font-size: 32px;
+ }
+ h4{ 
+     color:black;
+     margin-top: 50px ;
+     margin-left: auto;
+     margin-right: auto;
+ }
+  
+ h5{
+     font-size: 22px;
+     color: black;
+     margin-left: 55%;
+     margin-right: 0%;
+     margin-top: -6%;
+     font-family: cursive;
+ }
+
+ h6{
+    font-size: 22px;
+    color: black;
+    margin-left: 55%;
+    margin-right: 0%;
+    margin-top: 0%;
+    font-family: cursive;
+ }
+    
